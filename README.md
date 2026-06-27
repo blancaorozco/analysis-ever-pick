@@ -72,6 +72,22 @@ Los jóvenes y los adultos mayores de bajo uso representan segmentos con potenci
 
 **¿Cómo ejecutar el proyecto?**
 
+## Ejecución en Google Colab (Recomendado)
+
+Dado que el análisis se desarrolló utilizando **Google Colab Notebook**, esta es la manera más rápida de ejecutarlo sin necesidad de configurar un entorno local:
+
+1. **Abrir el Notebook en Colab:**
+   * Ve a [Google Colab](https://colab.research.google.com/github/blancaorozco/analysis-ever-pick/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb).
+   
+
+2. **Cargar los Datasets:**
+   * Descarga los archivos CSV (`plans.csv`, `users_latam.csv`, `usage.csv`) desde este repositorio a tu computadora.
+   * En el panel lateral izquierdo de Google Colab, haz clic en el icono de la **Carpeta** (Archivos).
+   * Arrastra y suelta los tres archivos CSV directamente en el almacenamiento temporal de Colab, o usa el botón de subir archivo.
+
+3. **Ejecutar las Celdas:**
+   * Dirígete al menú superior y selecciona **Entorno de ejecución** > **Ejecutar todas**.
+   * También puedes ir ejecutando celda por celda usando `Shift + Enter`.
 **Reproducción del análisis**
 
 Para reproducir los resultados:
