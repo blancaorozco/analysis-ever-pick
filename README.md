@@ -64,11 +64,15 @@ Los jóvenes y los adultos mayores de bajo uso representan segmentos con potenci
 
 **Tecnologías utilizadas**
 
-*Python 3
-*Pandas
-*Matplotlib
-*Seaborn
-*Google Colab Notebook
+* Python 3
+* Pandas
+* Matplotlib
+* Seaborn
+* Google Colab Notebook
 
 **¿Cómo ejecutar el proyecto?**
+
+**Reproducción del análisis**
+
+Para reproducir los resultados:
 
